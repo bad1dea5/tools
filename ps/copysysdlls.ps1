@@ -1,8 +1,4 @@
-ew-Item -ItemType Directory -Force -Path $version
-
-        Copy-Item 'C:\Windows\System32\ntoskrnl.exe' $version
-        Copy-Item 'C:\Windows\System32\ntdll.dll' $version
-        Copy-Item 'C:\Windows\System32\kernel32.dll' $version#
+#
 #
 #
 
